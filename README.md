@@ -182,9 +182,9 @@ hospital.html:
 ![output](./JP.png)
 ![output](./007%20CG.png)
 ![output](./LS.png)
-## Server OUtput:
+## Server Output:
 ![output](./MP%203.png)
-## Web VAlidator:
+## Web Validator:
 ![output](./MP%202.png)
 ## Result:
 Thus The Web Is Developed To Show The Details of My Place
